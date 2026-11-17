@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "523557063729",
+    "project_id": "registrohorasestudio",
+    "storage_bucket": "registrohorasestudio.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523557063729:android:767359cc2228b38022d910",
+        "android_client_info": {
+          "package_name": "com.example.registrohorasestudio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523557063729-ts4ed202ba996td480udtt0ivd40olgo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.registrohorasestudio",
+            "certificate_hash": "ab4197b9c05061206d14aa9ed9604b01d2c5d5e8"
+          }
+        },
+        {
+          "client_id": "523557063729-a9jseq5us9i80lue1002o30609hrg4cb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcRovQQ0EMuqWJJK-Fcicw6-nh8XO_g4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523557063729-a9jseq5us9i80lue1002o30609hrg4cb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
