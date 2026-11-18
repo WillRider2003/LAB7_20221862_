@@ -9,6 +9,8 @@ public class SesionEstudio {
     private double horas;
     private String actividad;
 
+    private String evidenciaUrl;
+
     // Constructor vacío (necesario para Firestore)
     public SesionEstudio() {
     }

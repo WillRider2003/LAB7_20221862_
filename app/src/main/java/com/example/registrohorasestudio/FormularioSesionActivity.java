@@ -218,6 +218,8 @@ public class FormularioSesionActivity extends AppCompatActivity {
         }
     }
 
+
+
     private void mostrarError(String mensaje) {
         btnGuardarSesion.setEnabled(true);
 
