@@ -70,7 +70,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    // INICIO DE SESION CON CORREO
+    // PARA INICIAR SESION CON CORREITO JEJE
     private void iniciarSesion() {
         String correo = etCorreo.getText().toString().trim();
         String contrasena = etContrasena.getText().toString();
